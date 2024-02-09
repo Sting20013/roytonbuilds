@@ -5,9 +5,9 @@
         </requires>
         <extension point="xbmc.addon.repository" name="Royton Builds Repository">
         	<dir>
-            <<info compressed="false">https://raw.githubusercontent.com/Sting20013/repository.roytonbuilds/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Sting20013/repository.roytonbuilds/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Sting20013/repository.roytonbuilds/master/zips/</datadir>
+            <<info compressed="false">https://raw.githubusercontent.com/Sting20013/roytonbuilds/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Sting20013/roytonbuilds/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Sting20013/roytonbuilds/master/zips/</datadir>
             <hashes>false</hashes>
             </dir>
 			<dir>

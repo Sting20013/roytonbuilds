@@ -2,9 +2,9 @@
 <addon id="repository.RoytonBuilds" name="Royton Builds Repo" provider-name="Sean Sco">
 <extension point="xbmc.addon.repository">
 <dir minversion="1.0.0">
-<info compressed="false">https://raw.githubusercontent.com/Sting20013/repository.roytonbuilds/master/addons.xml</info>
-<checksum>https://raw.githubusercontent.com/Sting20013/repository.roytonbuilds/master/zips/addons.xml.md5</checksum>
-<datadir zip="true">https://raw.githubusercontent.com/Sting20013/repository.roytonbuilds/master/zips/</datadir>
+<info compressed="false">https://raw.githubusercontent.com/Sting20013/roytonbuilds/master/zips/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/Sting20013/roytonbuilds/master/zips/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/Sting20013/roytonbuilds/master/zips/</datadir>
 </dir>
 <dir>
 </extension>
